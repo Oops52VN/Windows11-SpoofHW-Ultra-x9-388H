@@ -1,0 +1,7 @@
+{
+    "cpu_name": "AMD Ryzen AI 9 HX 370 w/ Radeon 890M",
+    "gpu_name": "AMD Radeon 890M Graphics (16 GB)",
+    "gpu_family": "AMD Radeon Graphics",
+    "npu_name": "AMD Ryzen AI NPU 50 TOPS",
+    "task_name": "SpoofHW_AutoRun"
+}
